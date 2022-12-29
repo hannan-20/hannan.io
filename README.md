@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1>Hello World</h1>
-<img src="/home/hannan-20/Downloads/DP_img.jpeg">
+  ![Minion](http://octodex.github.com/images/minion.png)
 </body>
 </html>
