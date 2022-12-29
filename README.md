@@ -4,6 +4,7 @@
 </head>
 <body>
 <h1>Hello World</h1>
-  ![Minion](http://octodex.github.com/images/minion.png)
+ ## Images
+ ![Minion](https://octodex.github.com/images/minion.png)
 </body>
 </html>
